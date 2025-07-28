@@ -483,3 +483,7 @@
 
 - Add [nvim-biscuits] to show block context. Available at
   `vim.utility.nvim-biscuits`.
+
+[lunabirkeland](https://github.com/lunabirkeland):
+
+- Fix nixos and home-manager modules not using nvf's nixpkgs input.
